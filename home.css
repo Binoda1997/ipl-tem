@@ -19,11 +19,11 @@ body{
     margin: 5%;
 }
 .cska,.mia{
-        height: 120px;
+        height: 200px;
         width: 45%;
         border: 1px solid pink;
         text-align: center;
-        padding: 4% 0 0 0 ;
+        padding: 0 0 0 0 ;
         text-decoration: none;
         color: black;
         font-size: 25px;
@@ -98,4 +98,10 @@ body{
 
 .highlight {
     background-color: aqua;
+}
+img{
+    height:198px;
+    width: 500px;
+    border-radius: 20px;
+
 }
