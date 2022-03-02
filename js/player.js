@@ -1631,8 +1631,676 @@ var player=[
         "over_bowled":"0",
         "wickets":"0",
         "best_bowling":"0"
+    },
+    {
+        "id":87,
+        "P_Name":"Marco Jansen",
+        "team":"srh",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":88,
+        "P_Name":"Sean Abbot",
+        "team":"srh",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":89,
+        "P_Name":"Abhisek Sharmaa",
+        "team":"srh",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":90,
+        "P_Name":"Washington Sundar",
+        "team":"srh",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":91,
+        "P_Name":"Rohit Sharma",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":92,
+        "P_Name":"S K Yadav",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":93,
+        "P_Name":"Tilak Varma",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":94,
+        "P_Name":"Ishan Kisan",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":95,
+        "P_Name":"Anukul Roy",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":96,
+        "P_Name":"Jasprit Bumrah",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":97,
+        "P_Name":"Jaydeb Unadkat",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":98,
+        "P_Name":"Jofra Archer",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":99,
+        "P_Name":"Tymal Mills",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":100,
+        "P_Name":"Mayank Markande",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":101,
+        "P_Name":"Murgan Aswini",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":102,
+        "P_Name":"Kieron Pollard",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":103,
+        "P_Name":"Arjun Tendulkar",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":104,
+        "P_Name":"Daniel Sams",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":105,
+        "P_Name":"Tim David",
+        "team":"MI",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":106,
+        "P_Name":"Shreyas Iyer",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":107,
+        "P_Name":"Nitish Rana",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":108,
+        "P_Name":"Ajinkya Rahane",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":109,
+        "P_Name":"Alex Hales",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":110,
+        "P_Name":"Sam Billings",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":111,
+        "P_Name":"Sheldon Jackson",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":112,
+        "P_Name":"Varun Chakravarty",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":113,
+        "P_Name":"Tim Southee",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":114,
+        "P_Name":"umesh Yadav",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":115,
+        "P_Name":"Pat Cummins",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":116,
+        "P_Name":"Andre Russel",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":117,
+        "P_Name":"Venkatesh Iyer",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":118,
+        "P_Name":"Sunil Nrine",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":119,
+        "P_Name":"Mohd Nabi",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
+    },
+    {
+        "id":120,
+        "P_Name":"Shivam Mavi",
+        "team":"KKR",
+        "total_run":"0",
+        "total_match":"0",
+        "boundries":"0",
+        "half_centuries":"0",
+        "centuries":"0",
+        "avg.":"0",
+        "highest_score":"0",
+        "over_bowled":"0",
+        "wickets":"0",
+        "best_bowling":"0"
+
+
+        
+
     }
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
+
 var b=JSON.stringify(player);
 localStorage.setItem("player_data",b);
